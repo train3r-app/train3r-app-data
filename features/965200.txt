@@ -1,0 +1,28 @@
+# ESP
+- Toggle ESP
+- Box
+- Bone
+- Snapline
+- Health
+- Chams (Buggy)
+- Items (Treasure Chest)
+
+# Aimbot
+- Toggle Aimbot (Buggy)
+
+# Patches
+## Player patches
+- God Mode
+- Fast run
+## Gun patches
+- No recoil and Camera shake
+- Infinity ammo
+- No muzzle flash
+- No spread
+- High ROF
+- Instant kill
+- Instant reload
+## Economy patches
+- Infinity Silver and Gold coins
+## Misc patches
+- Hide floating damage
